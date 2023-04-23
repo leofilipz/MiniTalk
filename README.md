@@ -1,4 +1,4 @@
-#MINITALK 42 SCHOOL <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux Logo" width="50" height="60" align="right" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Logo" width="55" height="55" align="right" />&nbsp; 
+#MINITALK 42 SCHOOL height="55" align="right" />&nbsp; 
 
 ## Grade: 125/100
 
