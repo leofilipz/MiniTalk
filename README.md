@@ -1,4 +1,4 @@
-#MINITALK 42 SCHOOL height="55" align="right" />&nbsp; 
+#MINITALK 42 SCHOOL
 
 ## Grade: 125/100
 
